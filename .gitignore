@@ -1,0 +1,6 @@
+﻿nimcache/
+nimblecache/
+htmldocs/
+
+*.exe
+package.json
